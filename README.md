@@ -39,24 +39,27 @@ D
 ## CONTROLLERS
 ​​API routes 
 RESTful conventions 
-
+```
 GET /coffees/
 GET /coffees/<int:id>
 POST /coffees/
 PATCH /coffees/<int:id>
 DELETE /coffees/<int:id>
-
+```
+```
 GET /customers/
 GET /customers/<int:id>
 POST /customers/
 PATCH /customers/<int:id>
 DELETE /customers/<int:id>
-
+```
+```
 GET /orders/
 GET /orders/<int:id>
 POST /orders/
 PATCH /orders/<int:id>
 DELETE /orders/<int:id>
+```
 
 
 ### Serialize rules 
