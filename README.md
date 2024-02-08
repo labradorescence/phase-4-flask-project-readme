@@ -10,7 +10,7 @@ Coffee Order Tracking App
 
 
 ## Domain Model: 
-![domainmodel](http://url/to/img.png](https://i.imgur.com/f5isEXU.png)
+![domainmodel](https://i.imgur.com/f5isEXU.png)
 
 
 ## MVP:
