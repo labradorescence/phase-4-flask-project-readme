@@ -41,22 +41,29 @@ D
 RESTful conventions 
 ```
 GET /coffees/
-GET /coffees/<int:id>
 POST /coffees/
+```
+
+```
+GET /coffees/<int:id>
 PATCH /coffees/<int:id>
 DELETE /coffees/<int:id>
 ```
 ```
 GET /customers/
-GET /customers/<int:id>
 POST /customers/
+```
+```
+GET /customers/<int:id>
 PATCH /customers/<int:id>
 DELETE /customers/<int:id>
 ```
 ```
 GET /orders/
-GET /orders/<int:id>
 POST /orders/
+```
+```
+GET /orders/<int:id>
 PATCH /orders/<int:id>
 DELETE /orders/<int:id>
 ```
